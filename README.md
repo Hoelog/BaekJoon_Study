@@ -1,3 +1,3 @@
 # BaekJoon_Study
 
-[BaekJoon]: https://www.acmicpc.net/step "BaekJoon"
+[BaekJoon](https://www.acmicpc.net/step)
